@@ -13,9 +13,13 @@
 
 // github -> remote repository
 // push -> 원격 저장소로 업로드
+// clone -> 원격 저장소의 자원을 로컬로 복사
+// pull -> 원격 저장소의 변경사항을 로컬로 병합
 public class Main {
 	public static void main(String[] args) {
 		System.out.println("헬로 월드");
 		System.out.println("추가 문장 작성");
+		System.out.println("문장을 작성중이었는데~");
+		
 	}
 }
