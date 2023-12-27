@@ -16,5 +16,6 @@
 public class Main {
 	public static void main(String[] args) {
 		System.out.println("헬로 월드");
+		System.out.println("추가 문장 작성");
 	}
 }
